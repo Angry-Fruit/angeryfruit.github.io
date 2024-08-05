@@ -1,8 +1,9 @@
 #gamecontainer {
-    width:1000px;
-    height:800px;
-    background: url("../img/splashscreen.png");
-        background-repeat: no-repeat;
+     object-fit: fill;
+    width: 1400px;
+    height: 800px;
+    background: url(../img/splashscreen.png);
+
 }
 .gamelayer {
     width:1000px;
