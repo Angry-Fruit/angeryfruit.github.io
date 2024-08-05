@@ -95,3 +95,8 @@
     text-shadow: 0 0 2px #000;
     color:white;
 }
+.block
+    {
+         width:700px;
+        height:600px;
+    }
